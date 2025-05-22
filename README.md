@@ -13,7 +13,7 @@ A simple, interactive web app to check if a word or phrase is a palindrome. Buil
 
 ## Demo
 
-[Live Demo](#) 
+[Live Demo]( https://tobilobacodes00.github.io/Palindrome-Checker/) 
 ## Getting Started
 
 ### Prerequisites
